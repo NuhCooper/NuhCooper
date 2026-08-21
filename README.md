@@ -1,6 +1,6 @@
 Hi there! I'm Nuh Cooper 👋
 
-* I'm a Graduate Engineer passionate about AI, data visualisation, and automation.
+* I'm a Digital Audit Project Engineer passionate about AI, data visualisation, and automation.
 * I completed my MEng in Electronic Engineering in 2023.
 * I’m currently pursuing a PhD in Responsible AI, focusing on the intersection of Intelligence Augmentation (IA) and ethical AI business strategy.
 * I enjoy building innovative tools that make data accessible and actionable.
